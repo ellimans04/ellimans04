@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elliot Manuel Sithole
-- 👀 I’m passionate about data analytics in solving healthcare and business operations problems.
-- 🌱 I’m a Healthcare Specialist-pivoting into Data Analytics
-- 💞️ I’m looking to collaborate on healthcare and business operations management data analytics projects
+- 👀 I’m passionate about Data Sciences & Analytics in solving, public health, healthcare and business operations complex problems.
+- 🌱 I’m a Healthcare Specialist with strong skills in Data Sciences & Analytics
+- 💞️ I’m looking to collaborate on healthcare and business operations management projects
 - 📫 How to reach me ...elliotmanuelsithole@yahoo.co.uk
 
 <!---
